@@ -51,6 +51,7 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 If you use this dataset or reference this work in your research, please cite our paper as follows:
 
+```bibtex
 @inproceedings{azimi2025ellmpeg,
   author = {Zoha Azimi, Reza Farahani, Radu Prodan, CHristian Timmerer},
   title = {ELLMPEG: Towards a Simple and Energy-Efficient FFmpeg-Like Video Processing Tool with LLMs},
