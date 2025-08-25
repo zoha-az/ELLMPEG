@@ -8,7 +8,7 @@ In our paper titled *ELLMPEG: Towards a Simple and Energy-Efficient FFmpeg-Like 
 
 ### FFmpeg Command Pool
 
-- **Total Queries:** 100
+- **Total Queries:** 380
 - This command pool includes a variety of queries categorized based on common multimedia processing tasks, ensuring thorough coverage of real-world applications. Queries are grouped into distinct categories, including:
   - **Video Processing**: Codec change, manipulation (resize, crop), compression, filters (watermark, blurring)
   - **Audio Processing**: Manipulation (speed change), Effects (echo, equalize)
@@ -22,7 +22,7 @@ In our paper titled *ELLMPEG: Towards a Simple and Energy-Efficient FFmpeg-Like 
 
 ### VVenC Command Pool
 
-- **Total Queries:** 50
+- **Total Queries:** 100
 - Similar to the FFmpeg command pool, this collection includes various queries tailored for the VVenC tool, categorized for ease of use and comprehensive coverage.
   - **Basic Encoding**: Codec change, bitrate settings
   - **Optimization**: Hardware acceleration, speed optimization
